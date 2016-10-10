@@ -1,2 +1,3 @@
 # bulls-and-cows
 A classic "bulls and cows" game on Tkinter.
+I'm in process of downloading it, please wait....
